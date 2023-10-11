@@ -1,0 +1,19 @@
+#header {
+    height: 100px;
+    display: flex;
+
+
+
+}
+
+li {
+    background-color: azure;
+}
+
+h1 {
+    font-size: larger;
+}
+
+#nome {
+    background-color: beige;
+}
